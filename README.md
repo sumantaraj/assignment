@@ -53,12 +53,12 @@ The UI is designed to be fully responsive and visually appealing across differen
 2. Install dependencies:
    ```bash
    npm install
-   \```
+   `
 
 3. Start the application:
    ```bash
    npm start
-   \```
+   
 
 4. Open the application in your browser at `http://localhost:3000`.
 
