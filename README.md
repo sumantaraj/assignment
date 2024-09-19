@@ -48,19 +48,20 @@ The UI is designed to be fully responsive and visually appealing across differen
 ## How to Run the Application
 
 1. Clone the repository:
-
+`
 
 2. Install dependencies:
-   '''bash
+   \```bash
    npm install
-   '''
+   \```
 
 3. Start the application:
-   '''bash
+   \```bash
    npm start
-   '''
+   \```
 
 4. Open the application in your browser at `http://localhost:3000`.
+
 
 
 
